@@ -30,6 +30,6 @@ The analysis concludes with a horizontal bar chart illustrating the **Average Ex
 
 ## 🚀 How to Run the Project
 1. Clone this repository.
-2. Ensure you have the dataset downloaded from the *Portal da Transparência* (or use the provided sample if applicable).
+2. Ensure you have the dataset downloaded from the *Portal da Transparência* (or use the provided sample).
 3. Update the file paths in the notebook to point to your local directories.
 4. Run the Jupyter Notebook to reproduce the tables and charts.
